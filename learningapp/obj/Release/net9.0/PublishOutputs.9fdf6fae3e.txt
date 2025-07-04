@@ -1,0 +1,7 @@
+/Users/jessica.ortiz/Desktop/tmp2/learningapp/bin/Publish/learningapp
+/Users/jessica.ortiz/Desktop/tmp2/learningapp/bin/Publish/appsettings.Development.json
+/Users/jessica.ortiz/Desktop/tmp2/learningapp/bin/Publish/appsettings.json
+/Users/jessica.ortiz/Desktop/tmp2/learningapp/bin/Publish/learningapp.dll
+/Users/jessica.ortiz/Desktop/tmp2/learningapp/bin/Publish/learningapp.deps.json
+/Users/jessica.ortiz/Desktop/tmp2/learningapp/bin/Publish/learningapp.runtimeconfig.json
+/Users/jessica.ortiz/Desktop/tmp2/learningapp/bin/Publish/learningapp.pdb
